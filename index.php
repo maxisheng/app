@@ -1,3 +1,3 @@
 <?php
-echo date();
+echo 2011;
 //echo phpinfo();
