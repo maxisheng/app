@@ -1,3 +1,3 @@
 <?php
 echo date();
-echo phpinfo();
+//echo phpinfo();
